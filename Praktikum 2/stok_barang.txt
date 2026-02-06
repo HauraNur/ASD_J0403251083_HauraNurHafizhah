@@ -1,0 +1,11 @@
+BRG001,Roti,20
+BRG002,AirMineral,15
+BRG003,TehBotol,10
+BRG004,Biskuit,30
+BRG005,Coklat,20
+BRG006,SusuKotak,27
+BRG007,Yoghurt,45
+BRG008,PermenKaret,0
+BRG009,Indomie,150
+BRG010,Ciki,60
+BRG012,Galon,9
